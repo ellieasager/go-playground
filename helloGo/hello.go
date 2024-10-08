@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/ellieasager/helloGo/stringsFun"
+	"github.com/ellieasager/go-playground/tree/main/helloGo/stringsFun"
 )
 
 func main() {
